@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="tgdwcj Home">
+    <meta name="keywords" content="tgdwcj,Homepage">
+    <meta name="author" content="tgdwcj">
+	
+    <!-- 百度站长网站访问量统计 -->
+    <script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?e27c74f5bebbd6033c5e5851d62ece85";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+     </script>
+	
+    <title>tgdwcj Home</title>
+    <link href='./assets/css/youziku.css' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" type="text/css" href="./assets/css/vno.css">
+    <link rel="stylesheet" type="text/css" href="./assets/css/iconfont.css">
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png">
+    <link rel="icon" href="./favicon.ico">
+    
+
+
+</head>
+
+<body>
+    <span class="mobile btn-mobile-menu">
+        <i class="social iconfont icon-list btn-mobile-menu__icon"></i>
+        <i class="social iconfont icon-angleup btn-mobile-close__icon hidden"></i>
+    </span>
+    <header id="panel" class="panel-cover">
+        <div class="panel-main">
+            <div class="panel-main__inner panel-inverted">
+                <div class="panel-main__content">
+                    <a href="#" title="前往 XiangLinPro 的主页" class="profilepic">
+                        <img src="./img/logo.jpg" width="80" alt="tgdwcj`s logo" class="js-avatar iUp show" />
+                    </a>
+                    <h1 class="panel-cover__title panel-title iUp">
+                        <a href="#" title="link to homepage for XiangLinPro">XiangLinPro</a>
+                    </h1>
+                    <p class="panel-cover__subtitle panel-subtitle iUp">Code Change World</p>
+                    <hr class="panel-cover__divider iUp" />
+                    <p id="description" class="panel-cover__description iUp">如何得与凉风约，不共尘沙一并来!
+                        <br/>
+                        <strong>-「中牟道中」</strong>
+                    </p> 
+                    <div class="navigation-wrapper iUp">
+                        <div>
+                            <nav class="cover-navigation cover-navigation--primary">
+                                <ul class="navigation">
+                                    <li class="navigation__item">
+                                        <a href="/" class="blog-button">首页</a>
+                                    </li>
+                                    <li class="navigation__item">
+                                        <a href="https://blog.csdn.net/youif" class="blog-button" target="_blank">CSDN</a>
+                                    </li>
+                                    <li class="navigation__item">
+                                        <a href="#" class="blog-button" target="_blank">简历</a>
+                                    </li>
+                                    <li class="navigation__item">
+                                        <a href="#" class="blog-button" target="_blank">关于</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="iUp">
+                            <nav class="cover-navigation navigation--social">
+                                <ul class="navigation">
+                                    <li class="navigation__item">
+                                        <a href="https://github.com/XiangLinPro/" title="github" target="_blank">
+                                            <i class='social iconfont icon-github'></i>
+                                            <span class="label">github</span>
+                                        </a>
+                                    </li>
+                                    <li class="navigation__item">
+                                        <a href="https://www.zhihu.com/people/49918700/" title="zhihu" target="_blank">
+                                            <i class='social iconfont icon-zhihu'></i>
+                                            <span class="label">zhihu</span>
+                                        </a>
+                                    </li>
+                                    <li class="navigation__item">
+                                        <a href="15123441127@163.com" title="email">
+                                            <i class='social iconfont icon-email'></i>
+                                            <span class="label">email</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-cover--overlay cover-slate"></div>
+        </div>
+
+
+	    
+        <div class="remark iUp">
+            <p class="power">Powered By 
+                <a href="https://bird.ioliu.cn/" target="_blank"> JsonBird </a> And 
+                <a href="https://hitokoto.cn/" target="_blank"> Hitokoto </a> And
+				<a href="https://i.Dmego.me/" target="_blank"> Dmego </a>
+            </p>
+        </div>
+    </header>
+    <script type="text/javascript" src="./assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="./assets/js/fetch.min.js"></script>
+    <script type="text/javascript" src="./assets/js/main.js"></script>
+</body>
+
+</html>
