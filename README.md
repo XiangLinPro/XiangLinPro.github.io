@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.me.svg)](http://tgdwcj.cn/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.me.svg)](https://blog.csdn.net/youif/)
 [![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
 [![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
 
